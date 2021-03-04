@@ -1,12 +1,16 @@
 # Tableau
 
+## Bibitor Alcohol Sales Dataset (2018)
+
 ![Tableau Sales overview](https://user-images.githubusercontent.com/79943429/109896418-837d7100-7c56-11eb-85e1-9c10c505c6a7.png)
 
 ![Tableau Sales Trends](https://user-images.githubusercontent.com/79943429/109896402-80828080-7c56-11eb-87d2-659430af05a1.png)
 
 # --------------------------------------------------------
 
-# OAC - Accidents Data
+# Oracle Analytics Cloud
+
+## Road Accidents Dataset
 
 ![OAC Accidents Age](https://user-images.githubusercontent.com/79943429/109896407-811b1700-7c56-11eb-8e47-716e2038aad4.png)
 
@@ -20,7 +24,7 @@
 
 # --------------------------------------------------------
 
-# OAC - Youtube Data
+# Youtube Dataset
 
 ![OAC Youtube Category](https://user-images.githubusercontent.com/79943429/109896413-824c4400-7c56-11eb-88d1-03a20fef0941.png)
 
@@ -32,7 +36,7 @@
 
 # --------------------------------------------------------
 
-# OAC - Wine
+# OAC - Wine Dataset
 
 ![OAC Wine Overview 2](https://user-images.githubusercontent.com/79943429/109896744-18806a00-7c57-11eb-8886-2cca5205b426.png)
 
@@ -41,6 +45,8 @@
 # --------------------------------------------------------
 
 # R 
+
+## Heart Disease Dataset - Cleveland UCI
 
 ![r heart rf aub](https://user-images.githubusercontent.com/79943429/109880549-af8bf880-7c3c-11eb-82be-383953a77509.png)
 
